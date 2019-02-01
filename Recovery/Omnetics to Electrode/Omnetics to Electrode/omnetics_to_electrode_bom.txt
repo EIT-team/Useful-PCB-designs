@@ -1,0 +1,5 @@
+Partlist exported from C:/EAGLE-7.2.0/Omnetics to Electrode/omnetics_to_electrode.sch at 9/28/2016 1:08:02 PM
+
+Part Value           Device          Package         Description 
+            
+U$3  A79026-001_MALE A79026-001_MALE A79026-001_MALE             

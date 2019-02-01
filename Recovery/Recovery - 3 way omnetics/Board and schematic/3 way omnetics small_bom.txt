@@ -1,0 +1,6 @@
+Partlist exported from C:/Users/Mayo/Documents/eagle/3 way omnetics/3 way omnetics small.sch at 07-Mar-18 1:59:39 PM
+
+Part Value            Device           Package         Description 
+U$1  A79027-001_FMALE A79027-001_FMALE A79026-001_MALE             
+U$2  A79026-001_MALE  A79026-001_MALE  A79026-001_MALE             
+U$3  A79026-001_MALE  A79026-001_MALE  A79026-001_MALE             
