@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-05-29T15:43:23Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "samtec to dsub"
+        },
+        "Owner": "James Avery <j.avery.10@ucl.ac.uk>",
+        "Size": {
+            "X": 73.66,
+            "Y": 57.15
+        }
+    }
+}
